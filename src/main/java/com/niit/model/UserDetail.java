@@ -17,6 +17,8 @@ public class UserDetail {
 	String address;
 	String email;
 	String mobile;
+	
+	
 	public String getUserName() {
 		return userName;
 	}
